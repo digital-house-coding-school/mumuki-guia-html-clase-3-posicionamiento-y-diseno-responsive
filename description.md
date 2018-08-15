@@ -1,0 +1,1 @@
+Clase 3 del curso Blended donde veremos más propiedades de posicionamiento y diseño responsive
