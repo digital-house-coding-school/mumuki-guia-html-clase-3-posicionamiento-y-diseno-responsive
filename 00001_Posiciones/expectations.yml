@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:p
+  inspection: DeclaresStyle:position:relative
