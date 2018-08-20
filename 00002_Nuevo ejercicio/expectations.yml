@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: css:div
+  inspection: DeclaresStyle:position:relative
+- binding: css:p
+  inspection: DeclaresStyle:position:absolute
