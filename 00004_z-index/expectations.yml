@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: css:.red
+  inspection: DeclaresStyle:position:relative
+- binding: css:.yellow
+  inspection: DeclaresStyle:position:relative
+- binding: css:.red
+  inspection: DeclaresStyle:z-index
+- binding: css.yellow
+  inspection: DeclaresStyle:z-index
