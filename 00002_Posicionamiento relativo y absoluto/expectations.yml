@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: css:.new
-  inspection: DeclaresStyle:position:absolute
+- binding: div
+  inspection: DeclaresTag:h2
