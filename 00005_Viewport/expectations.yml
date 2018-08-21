@@ -1,7 +1,6 @@
 ---
 expectations:
-- binding: meta
-  inspection: DeclaresAttribute:name="viewport"         content="width=device-width,
-    initial-scale=1"
 - binding: head
   inspection: DeclaresTag:meta
+- binding: meta
+  inspection: DeclaresAttribute:name="viewport"
