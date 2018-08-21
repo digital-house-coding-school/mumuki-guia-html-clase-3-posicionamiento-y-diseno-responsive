@@ -4,7 +4,7 @@ expectations:
   inspection: DeclaresStyle:position:relative
 - binding: css:.yellow
   inspection: DeclaresStyle:position:relative
-- binding: css:.yellow
-  inspection: DeclaresStyle:z-index
 - binding: css:.red
-  inspection: DeclaresStyle:bottom:20px
+  inspection: DeclaresStyle:z-index
+- binding: css:.yellow
+  inspection: DeclaresStyle:top:10px
