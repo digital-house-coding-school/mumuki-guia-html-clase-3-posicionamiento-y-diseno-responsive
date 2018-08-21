@@ -1,5 +1,4 @@
 Ya sabemos manejar 2 posicionamientos: la relativa y la absoluta.  
-
 Ahora que estamos más cancheros te pedimos que dado el siguiente `<div>` con 2 `<img>` dentro:   
 
 ``` html
