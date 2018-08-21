@@ -1,9 +1,9 @@
 ---
 expectations:
 - binding: css:header
-  inspection: 'DeclaresStyle:height: 15vh'
+  inspection: DeclaresStyle:height:15vh
 - binding: css:div
-  inspection: 'DeclaresStyle:height: 85vh'
+  inspection: DeclaresStyle:height:85vh
 - binding: css:div
   inspection: DeclaresStyle:width:100%
 - binding: css:header
