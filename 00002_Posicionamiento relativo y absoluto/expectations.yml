@@ -1,10 +1,4 @@
 ---
 expectations:
-- binding: css:div
-  inspection: DeclaresStyle:position:relative
-- binding: css:p
+- binding: css:.new
   inspection: DeclaresStyle:position:absolute
-- binding: css:p
-  inspection: 'DeclaresStyle:top: 20px'
-- binding: css:p
-  inspection: DeclaresStyle:left:30px
