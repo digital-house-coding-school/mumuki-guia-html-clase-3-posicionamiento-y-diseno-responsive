@@ -6,4 +6,4 @@
 </ul>
 ```
 
-> Queremos que nuestra lista se ubique de forma fija a 5px del inicio del body y 5 px del costado izquierdo del body.
+> Queremos que nuestra lista se ubique de forma fija a 5px del inicio del body (utilizar `top`) y 5 px del costado izquierdo del body (utilizar `left`).
