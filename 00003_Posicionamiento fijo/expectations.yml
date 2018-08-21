@@ -2,3 +2,7 @@
 expectations:
 - binding: css:ul
   inspection: DeclaresStyle:position:fixed
+- binding: css:ul
+  inspection: DeclaresStyle:top:5px
+- binding: css:ul
+  inspection: 'DeclaresStyle:left: 5px'
