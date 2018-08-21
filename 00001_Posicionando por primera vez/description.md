@@ -1,4 +1,4 @@
-Contamos con dos textos sencillos:
+Contamos con dos textos sencillos para practicar posicionamientos:
 
 ``` html
 <p class="primero"> Lorem ipsum primero <p>
