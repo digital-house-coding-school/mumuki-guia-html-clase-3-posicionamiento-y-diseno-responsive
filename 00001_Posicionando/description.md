@@ -1,8 +1,8 @@
 Contamos con dos textos sencillos:
 
 ``` html
-<p class="primero"> Lorem ipsum <p>
-<p class="segundo"> Lorem ipsum <p>
+<p class="primero"> Lorem ipsum primero <p>
+<p class="segundo"> Lorem ipsum segundo <p>
 ```
 > Agregale las posiciones y reglas de css necesarias para que:
 

@@ -4,3 +4,11 @@ expectations:
   inspection: DeclaresStyle:position:relative
 - binding: css:.segundo
   inspection: DeclaresStyle:absolute
+- binding: css:.primero
+  inspection: 'DeclaresStyle:bottom: -30px'
+- binding: css:.primero
+  inspection: 'DeclaresStyle:right: -20px'
+- binding: css:.segundo
+  inspection: DeclaresStyle:top:20px
+- binding: css:.segundo
+  inspection: DeclaresStyle:left:30px
