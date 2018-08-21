@@ -9,3 +9,5 @@ Ahora que estamos más cancheros te pedimos que dado el siguiente `<div>` con un
 ```
 
 > El párrafo `<p>` se ubique a 20px desde la parte superior y 30px al costado izquierdo de su contenedor padre `<div>`.
+
+> Utilizar `top` y `left`
