@@ -3,7 +3,7 @@ expectations:
 - binding: css:.primero
   inspection: DeclaresStyle:position:relative
 - binding: css:.segundo
-  inspection: DeclaresStyle:absolute
+  inspection: DeclaresStyle:position:absolute
 - binding: css:.primero
   inspection: 'DeclaresStyle:bottom: -30px'
 - binding: css:.primero
