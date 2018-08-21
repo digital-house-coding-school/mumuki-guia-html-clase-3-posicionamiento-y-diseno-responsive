@@ -1,6 +1,6 @@
 Además de los `px` nos veníamos manejando con el` % `para darle medidas a nuestros elementos HTML. 
 
-Ahora que ya tenemos configurado para que nuestro html se adapte a los distintos dispositivos, podemos jugar con las nuevas medidas aprendidas: `vh` y `vw`.
+Ahora que ya tenemos configurado para que nuestro html se adapte a los distintos dispositivos, podemos jugar con las nuevas medidas aprendidas: `vh` y/o `vw`.
 
 ``` html
 <body>
