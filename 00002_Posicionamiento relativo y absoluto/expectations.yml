@@ -1,4 +1,10 @@
 ---
 expectations:
-- binding: div
-  inspection: DeclaresTag:h2
+- binding: css:.contenedor
+  inspection: DeclaresStyle:position:relative
+- binding: css:.new
+  inspection: DeclaresStyle:position:absolute
+- binding: css:.new
+  inspection: DeclaresStyle:top:10px
+- binding: css:.new
+  inspection: DeclaresStyle:left:140px
