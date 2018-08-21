@@ -1,14 +1,14 @@
 ---
 expectations:
-- binding: css:.primero
+- binding: css:p.primero
   inspection: DeclaresStyle:position:relative
-- binding: css:.segundo
+- binding: css:p.segundo
   inspection: DeclaresStyle:absolute
-- binding: css:.primero
+- binding: css:p.primero
   inspection: 'DeclaresStyle:bottom: -30px'
-- binding: css:.primero
+- binding: css:p.primero
   inspection: 'DeclaresStyle:right: -20px'
-- binding: css:.segundo
+- binding: css:p.segundo
   inspection: DeclaresStyle:top:20px
-- binding: css:.segundo
+- binding: css:p.segundo
   inspection: DeclaresStyle:left:30px
