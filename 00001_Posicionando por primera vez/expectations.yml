@@ -5,9 +5,9 @@ expectations:
 - binding: css:.segundo
   inspection: DeclaresStyle:position:absolute
 - binding: css:.primero
-  inspection: DeclaresStyle:top:20px
+  inspection: DeclaresStyle:top:30px
 - binding: css:.primero
-  inspection: DeclaresStyle:left:30px
+  inspection: DeclaresStyle:left:20px
 - binding: css:.segundo
   inspection: DeclaresStyle:bottom:20px
 - binding: css:.segundo
