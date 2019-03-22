@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:height:15vh
-- binding: css:div
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:div
   inspection: DeclaresStyle:height:85vh
-- binding: css:div
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:div
   inspection: DeclaresStyle:width:100%
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:width:100%

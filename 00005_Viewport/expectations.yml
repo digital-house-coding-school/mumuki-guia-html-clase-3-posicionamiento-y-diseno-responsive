@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: head
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: head
   inspection: DeclaresTag:meta
-- binding: meta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: meta
   inspection: DeclaresAttribute:name="viewport"

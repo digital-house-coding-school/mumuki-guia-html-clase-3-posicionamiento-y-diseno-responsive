@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: css:.red
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.red
   inspection: DeclaresStyle:position:relative
-- binding: css:.yellow
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.yellow
   inspection: DeclaresStyle:position:relative
-- binding: css:.red
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.red
   inspection: DeclaresStyle:z-index
-- binding: css:.yellow
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.yellow
   inspection: DeclaresStyle:top:10px

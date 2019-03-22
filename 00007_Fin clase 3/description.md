@@ -1,3 +1,3 @@
-Con esto finalizamos los ejercicios de la clase 3
+Com isso terminamos os exercícios da aula 3!
 
-¡Nos vemos en el aula!
+Vejo você na sala de aula!
