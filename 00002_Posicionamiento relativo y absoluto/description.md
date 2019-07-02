@@ -1,5 +1,6 @@
-Ya sabemos manejar 2 posicionamientos: la relativa y la absoluta.  
-Ahora que estamos más cancheros te pedimos que dado el siguiente `<div>` con 2 `<img>` dentro:   
+Vamos a ponernos un poco más exigentes…
+
+> Dado el siguiente div con dos imágenes adentro te pedimos que, a la imagen con clase new le asignes un ancho de 100px y la ubiques 140px desde la izquierda y 10px desde arriba **de manera absoluta**.
 
 ``` html
 <div class="contenedor">
@@ -8,8 +9,10 @@ Ahora que estamos más cancheros te pedimos que dado el siguiente `<div>` con 2 
 </div>
 ```
 
-> La imagen con `class="new"` tenga un ancho de 100px, y se ubique 140px desde la izquierda y 10px desde arriba de manera **absoluta**
-
-Sin embargo, esto lo posicionaria en función al `<body>`
+Sin embargo, ponerle posicionamiento absoluto lo posicionaria en función al `<body>`
 
 > Por eso, te pedimos que le agregues al `.contenedor` posicionamiento relativo para que la imagen se mueva relativa a su contenedor
+
+Te dejamos una imagen de referencia de como se ve el sitio antes de que vos agregues código:
+
+<img src="https://raw.githubusercontent.com/digital-house-coding-school/mumuki-guia-html-clase-3-posicionamiento-y-diseno-responsive/master/assets/Ejercicio-2_1562087719408.PNG" alt="Ejercicio-2_1562087719408.PNG" width="100%" height="auto">
